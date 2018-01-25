@@ -29,7 +29,7 @@ struct node {
 	node* next;
 };
 
-/**
+/*
 * Class: intLinkedList
 * Purpose:
 *     Implements a singly linked list that holds integers.

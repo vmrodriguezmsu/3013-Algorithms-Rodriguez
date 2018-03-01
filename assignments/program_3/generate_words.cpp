@@ -1,6 +1,6 @@
 /*
 Title:
-	Crazy Words Generator
+	Crazy Words Creator
 Files:
 	generate_words.cpp
 Semester:

@@ -1,6 +1,6 @@
 /*
 Title:
-	AVL tree header file
+	Crazy Word Creator
 Files:
 	AVLtree.h
 Semester:

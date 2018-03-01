@@ -1,6 +1,6 @@
 /*
 Title:
-	BS tree header file
+	Crazy Word Creator
 Files:
 	BSTtree.h
 Semester:
